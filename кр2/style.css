@@ -1,0 +1,68 @@
+.footer-centre{
+    text-align: center;
+}
+
+footer{
+    position: absolute; top:95%; width: 100%; left:0%;
+}
+
+header{
+    position: absolute; width: 100%;left:0%; top:0%;
+	width: 100%;
+	background: #000000;
+	height: 110px;
+}
+
+a {
+    color: white; /* Цвет ссылок */
+   }
+a:visited {
+    color: white; /* Цвет посещенных ссылок */
+   }
+a:active {
+    color: white; /* Цвет активных ссылок */
+   }
+
+.allproduct{
+    position: absolute;
+    top: 150px;
+    width: 70%;
+    left: 15%;
+}
+
+table img{
+    width:30%; height:auto;;
+}
+
+table a{
+    color: #000000;
+}
+
+.opisanie_photo{
+    width:50%; height:auto;;
+}
+
+table a{
+    color: black; /* Цвет ссылок */
+}
+table a:visited{
+    color: black; /* Цвет ссылок */
+}
+table a:active{
+    color: black; /* Цвет ссылок */
+}
+
+.opisanie{
+    position: absolute;
+    top:15%;
+}
+
+.signUp{
+    position: absolute;
+    top:15%;
+}
+
+.login{
+    position: absolute;
+    top: 14%;
+}
